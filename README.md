@@ -10,11 +10,13 @@ Bienvenue sur une parie de ma vie sur internet, je suis un apprentit Développeu
 N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de la tech. 🌟
 
 🛠 **Tech Stack :** 
-- **Langages** : HTML, CSS, JavaScript, SQL
-- **Frameworks & outils** : Tailwind CSS, React, Flutter, FlutterFlow
-- **Design & UI/UX** : Figma
-- **Base de données** : PostgreSQL
+- **Langages** : HTML, CSS, JavaScript, SQL, windev, JAVA, PHP
+- **Frameworks & outils** : Tailwind CSS
+- **Base de données** : MySQL
 - **Versioning** : Git & GitHub
+
+🛠 **Graphisme :**
+- **Design ** :Photoshoop , Illustrator
 
 ## 📫 Me contacter :
 📧 **Email** : reinealphonsiaericka@gmail.com
